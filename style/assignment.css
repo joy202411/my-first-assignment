@@ -1,0 +1,80 @@
+.fira-sans-normal {
+    font-family: "Fira Sans", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-feature-settings: 100;
+
+  }
+  
+  .banner{
+    display: flex;
+    justify-content: space-between;
+    background-color: #bee0d0;
+    border-radius: 16px;
+    padding: 100px 80px;
+
+
+  }
+  .banner-profile{
+    width: 473.03px 400px;
+    height: 400;
+  }
+  .banner-description{
+    font-weight: bold;
+    font-size: 56px;
+
+  }
+.banner-footer{
+  background-color: #006A50;
+ padding:17px 34px ;
+ border-radius: 8px;
+
+}
+.banner-head{
+  padding: auto;
+}
+/* ideas */
+.ideas{
+  display: ;
+}
+.vision-future{
+  display: flex;
+  gap: 24px;
+  padding: 32px;
+  
+
+}
+.ideas-description{
+  /* padding: 30px; */
+}
+.first-ideas{
+  background-color: #5490F5;
+  padding: 32px;
+  border-radius: 16px;
+}
+.second-ideas{
+  background-color: #C6E4D6;
+  padding: 32px;
+  border-radius: 16px;
+}
+.third-ideas{
+  background-color: #F7EBCF;
+  padding: 32px;
+  border-radius: 16px;
+}
+.first-button{
+  background-color: #5986d5;
+  padding: 11px 20px;
+  border-radius: 8px;
+}
+.second-button{
+  background-color: #259b66;
+  padding:  11px 20px;
+  border-radius: 8px;
+}
+.third-button{
+  background-color: #FFC239;
+  padding: 11px 20px;
+  border-radius: 8px;
+}
+/*  */
