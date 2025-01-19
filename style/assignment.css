@@ -3,6 +3,7 @@
     font-optical-sizing: auto;
     font-style: normal;
     font-feature-settings: 100;
+    background-color: #D5D6D8;
 
   }
   
@@ -128,3 +129,4 @@ button{
 .news-contain{
   flex: 1;
 }
+/* Donation button style */
